@@ -1,0 +1,101 @@
+<html>
+<head>
+<title>Register</title>
+	<style>
+	input[type=text], select {
+	  width: 100%;
+	  padding: 12px 20px;
+	  margin: 8px 0;
+	  display: inline-block;
+	  border: 1px solid #ccc;
+	  border-radius: 4px;
+	  box-sizing: border-box;
+	}
+
+	input[type=Email] {
+	  width: 100%;
+	  padding: 12px 20px;
+	  margin: 8px 0;
+	  display: inline-block;
+	  border: 1px solid #ccc;
+	  border-radius: 4px;
+	  box-sizing: border-box;
+	}
+
+	input[type=password] {
+	  width: 100%;
+	  padding: 12px 20px;
+	  margin: 8px 0;
+	  display: inline-block;
+	  border: 1px solid #ccc;
+	  border-radius: 4px;
+	  box-sizing: border-box;
+	}
+
+	input[type=submit] {
+	  width: 49%;
+	  background-color: Indigo;
+	  color: white;
+	  padding: 14px 20px;
+	  margin: 8px 0;
+	  border: none;
+	  border-radius: 4px;
+	  cursor: pointer;
+	}
+
+	input[type=reset] {
+	  width: 49%;
+	  background-color: Indigo;
+	  color: white;
+	  padding: 14px 20px;
+	  margin: 8px 0;
+	  border: none;
+	  border-radius: 4px;
+	  cursor: pointer;
+	}
+
+	body{
+		background-color:#cc99ff
+	}
+</style>
+</head>
+<body>
+	<b>
+	<font face="Tahoma">
+	<h1 align="center">Registration Form</h1>
+	<hr color=white>
+	<form>
+		Name<br>
+		<input type="text" size=50 maxlength=30 placeholder="Enter Name" required> <br><br>
+		Contact Number<br>
+		<input type="text" size=50 maxlength=10 placeholder="Enter Phone Number" required> <br><br>
+		Country<br>
+		<select name="country" placeholder="Enter Country" required>
+			<option value="1">Select Country</option>
+			<option value="2">India
+			<option value="3">Australia
+			<option value="4">America
+			<option value="5">Singapore
+			<option value="6">China
+			<option value="7">Bangladesh
+			<option value="8">Nepal
+		</select><br><br>
+		Gender<br>
+		<input type="radio" name="gender" value="1" checked>Male<br>   
+		<input type="radio" name="gender" value="2">Female<br><br>
+		Email ID<br>
+		<input type="Email" size=50 maxlength=15 placeholder="Enter Email ID" required> <br><br>
+		Password<br>
+		<input type=password size=50 maxlength=10 placeholder="Enter Password" required> <br><br>
+		Confirm Password<br>
+		<input type=password size=50 maxlength=10 placeholder="Enter Password Again" required> <br><br>
+		<input type=checkbox  class="container"name="Agree" required><b>All the information filled should be correct and If above information is false then you are responsible for it and may get penalty of Rupees:1000/-</b>
+		<br><br>
+
+		<input type=submit value="SUBMIT" formaction="Exp4a.html">
+		<input type=reset value="RESET"> <br>
+	</font>
+	</b>
+</form>
+</body>
+</html>

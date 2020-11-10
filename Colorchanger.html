@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Color Changer</title>
+	<style>
+		.center{
+			padding: 10px 10px;
+			border: 25px solid indigo;
+			vertical-align: middle;
+			text-align: center;
+			background-color: #cc99ff;
+		}
+	</style>
+
+	<script>
+    var colors = ["red", "blue", "green"];
+    var colorIndex = 0;
+    function changeColor() {
+        var col = document.getElementById("body");
+        if( colorIndex >= colors.length ) {
+            colorIndex = 0;
+        }
+        col.style.backgroundColor = colors[colorIndex];
+        colorIndex++; 
+    }
+</script>
+</head>
+<body id="body">
+
+    <center>
+	<button class="center" onclick="changeColor();"><h2> Click To Change The Color </h2></button>
+	</center>
+</body>
+</html>
