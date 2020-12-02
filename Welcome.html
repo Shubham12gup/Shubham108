@@ -6,16 +6,18 @@
   	background-image: url('Background1.jpg');
 	}
 	
-	.center {
- 	 margin: auto;
- 	 width: 50%;
- 	 padding: 10px;
+	.vertical-center {
+  	margin: 0;
+ 	position: absolute;
+  	top: 50%;
+  	-ms-transform: translateY(-50%);
+  	transform: translateY(-50%);
 	}
 </style>
 </head>
 <body>
-<div>
-<marquee class="center" direction="right" scrollamount=15 scrolldelay=1 loop=true> 
+<div class="vertical-center">
+<marquee  direction="right" scrollamount=15 scrolldelay=1 loop=true> 
 	<p><h1 align="center">Welcome<br> to <br> Web Design Lab</h1></p>
 </marquee>
 </div>
