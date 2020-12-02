@@ -1,0 +1,72 @@
+<university>
+  <student>
+  	<name lang="en">Akhilesh</name> 
+  	<college>LTCE</college> 
+  	<branch>COMP</branch> 
+  	<class>TE</class>
+  	<category>GENERAL</category>
+  </student>
+  <student>
+  	<name lang="en">Gaurang</name> 
+  	<college>LTCE</college> 
+  	<branch>COMP</branch> 
+  	<class>FE</class> 
+  	<category>OBC</category>
+  </student>
+  <student>
+  	<name lang="en">Nishant</name> 
+  	<college>VJTI</college> 
+  	<branch>MECH</branch> 
+  	<class>TE</class> 
+  	<category>SC</category>
+  </student>
+  <student>
+  	<name lang="en">Kamal</name> 
+  	<college>SPIT</college> 
+  	<branch>COMP</branch> 
+  	<class>SE</class> 
+  	<category>OBC</category>
+  </student>
+  <student>
+  	<name lang="en">Lalit</name> 
+  	<college>TCE</college> 
+  	<branch>ETRX</branch> 
+  	<class>SE</class>
+  	<category>GENERAL</category> 
+  </student>
+  <student>
+ 	<name lang="en">Manas</name> 
+  	<college>ACPCE</college> 
+  	<branch>MECH</branch> 
+  	<class>SE</class>
+  	<category>OBC</category> 
+  </student>
+  <student>
+  	<name lang="en">Shradha</name> 
+  	<college>ACPCE</college> 
+  	<branch>IT</branch> 
+  	<class>TE</class>
+  	<category>GENERAL</category> 
+  </student>
+  <student>
+  	<name lang="en">Omkar</name> 
+  	<college>LTCE</college> 
+  	<branch>EXTC</branch> 
+  	<class>FE</class> 
+  	<category>GENERAL</category>
+  </student>
+  <student>
+  	<name lang="en">Rahul</name> 
+  	<college>TCE</college> 
+  	<branch>COMP</branch> 
+  	<class>FE</class> 
+  	<category>ST</category>
+  </student>
+  <student>
+  	<name lang="en">Ramesh</name> 
+  	<college>RAIT</college> 
+  	<branch>EXTC</branch> 
+  	<class>TE</class> 
+  	<category>GENERAL</category>
+  </student>
+</university>
