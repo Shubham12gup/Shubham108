@@ -1,45 +1,45 @@
 
 <student>
    <subject>
-	    <name> Microprocessor </name>
-	    <Term_work> 23/25 </Term_work>
-	    <Viva> 22/25 </Viva>
-    	<Internal_Assessment> 18/20 </Internal_Assessment>
-    	<Theory> 65/80 </Theory>
+	    <name>Microprocessor</name>
+	    <Term_work>23/25</Term_work>
+	    <Viva>22/25</Viva>
+    	<Internal_Assessment>18/20</Internal_Assessment>
+    	<Theory>65/80</Theory>
    </subject>
    <subject>
-	    <name> Database Management System </name>
-	    <Term_work> 22/25 </Term_work>
-	    <Viva> 25/25 </Viva>
-	    <Internal_Assessment> 19/20 </Internal_Assessment>
-	    <Theory> 69/80 </Theory>
+	    <name>Database Management System</name>
+	    <Term_work>22/25</Term_work>
+	    <Viva>25/25</Viva>
+	    <Internal_Assessment>19/20</Internal_Assessment>
+	    <Theory>69/80</Theory>
    </subject>
    <subject>
-	    <name> Computer Network </name>
-	    <Term_work> 24/25 </Term_work>
-	    <Viva> 21/25 </Viva>
-	    <Internal_Assessment> 17/20 </Internal_Assessment>
-	    <Theory> 70/80 </Theory>
+	    <name>Computer Network</name>
+	    <Term_work>24/25</Term_work>
+	    <Viva>21/25</Viva>
+	    <Internal_Assessment>17/20</Internal_Assessment>
+	    <Theory>70/80</Theory>
    </subject>
    <subject>
-    	<name> Theory of Computer Science </name>
-	    <Term_work> 23/25 </Term_work>
-	    <Viva> 23/25 </Viva>
-	    <Internal_Assessment> 18/20 </Internal_Assessment>
-	    <Theory> 75/80 </Theory>
+    	<name>Theory of Computer Science</name>
+	    <Term_work>23/25</Term_work>
+	    <Viva>23/25</Viva>
+	    <Internal_Assessment>18/20</Internal_Assessment>
+	    <Theory>75/80</Theory>
    </subject>
    <subject>
-	    <name> Business Communication and Ethics </name>
-	    <Term_work> 22/25 </Term_work>
-	    <Viva> 21/25 </Viva>
-	    <Internal_Assessment> 19/20 </Internal_Assessment>
-	    <Theory> 54/80 </Theory>
+	    <name>Business Communication and Ethics</name>
+	    <Term_work>22/25</Term_work>
+	    <Viva>21/25</Viva>
+	    <Internal_Assessment>19/20</Internal_Assessment>
+	    <Theory>54/80</Theory>
    </subject>
    <subject>
-	    <name> WEb designing Lab </name>
-    	<Term_work> 24/25 </Term_work>
-	    <Viva> 22/25 </Viva>
-	    <Internal_Assessment> NO Internal Assessment </Internal_Assessment>
-	    <Theory> NO Theory </Theory>
+	    <name>WEb designing Lab</name>
+    	<Term_work>24/25</Term_work>
+	    <Viva>22/25</Viva>
+	    <Internal_Assessment>NO Internal Assessment</Internal_Assessment>
+	    <Theory>NO Theory</Theory>
    </subject>
 </student>
