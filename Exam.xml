@@ -6,6 +6,7 @@
 <Viva> 22/25 </Viva>
 <Internal_Assessment> 18/20 </Internal_Assessment>
 <Theory> 65/80 </Theory>
+<Grade> O </Grade>
 </subject>
 <subject>
 <name> Database Management System </name>
@@ -13,6 +14,7 @@
 <Viva> 25/25 </Viva>
 <Internal_Assessment> 19/20 </Internal_Assessment>
 <Theory> 69/80 </Theory>
+<Grade> O </Grade>
 </subject>
 <subject>
 <name> Computer Network </name>
@@ -20,6 +22,7 @@
 <Viva> 21/25 </Viva>
 <Internal_Assessment> 17/20 </Internal_Assessment>
 <Theory> 70/80 </Theory>
+<Grade> A </Grade>
 </subject>
 <subject>
 <name> Theory of Computer Science </name>
@@ -27,6 +30,7 @@
 <Viva> 23/25 </Viva>
 <Internal_Assessment> 18/20 </Internal_Assessment>
 <Theory> 75/80 </Theory>
+<Grade> O </Grade>
 </subject>
 <subject>
 <name> Business Communication and Ethics </name>
@@ -34,6 +38,7 @@
 <Viva> 21/25 </Viva>
 <Internal_Assessment> 19/20 </Internal_Assessment>
 <Theory> 54/80 </Theory>
+<Grade> B </Grade>
 </subject>
 <subject>
 <name> WEb designing Lab </name>
@@ -41,5 +46,6 @@
 <Viva> 22/25 </Viva>
 <Internal_Assessment> NO Internal Assessment </Internal_Assessment>
 <Theory> NO Theory </Theory>
+<Grade> O </Grade>
 </subject>
 </student>
